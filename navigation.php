@@ -8,16 +8,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-            <a class="nav-link text-white mr-3" href="index.php?homepage=1">Home</a>
+            <a class="nav-link text-white mr-3" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link text-white mr-3" href="index.php?addElectionPage=1">Add Election</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-white mr-3" href="index.php?addCandidatePage=1">Add Candidate</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-white mr-3" href="logout.php">Logout</a>
+            <a class="nav-link text-white mr-3" href="../admin/logout.php">Logout</a>
         </li>
          </ul>
     </div>
